@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_login"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_header"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:text="PT.SUMBER ALFARIA TRIJAYA. TBK"
+        android:textColor="#aaa"
+        android:textSize="12sp"
+        android:id="@+id/textView"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/padding_box_login"
+        android:layout_marginRight="@dimen/padding_box_login"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/rounded_login"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_header_login"
+            android:gravity="center">
+            
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/header"/>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/nik_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NIK"/>
+
+            <EditText
+                android:id="@+id/input_email"
+                style="@style/SingPassLoginActivity.EditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/nik_label"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/pass_label"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="PIN"/>
+
+            <EditText
+                android:id="@+id/input_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:layout_toRightOf="@+id/pass_label"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_bottom_button_login">
+
+            <android.support.v7.widget.AppCompatButton
+
+                android:id="@+id/btn_login"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/button_height_login"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/rounded_yellow_button"
+                android:text="Login"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+</RelativeLayout>
