@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\269311fa7438f92dd70e6abf0fa3b4074e7fdbcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0c5fd1a8a97963af6689c1348cb3de6d1ba81d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\bbdfae4fd0c2aea5c758be4d1ade5fbcfba7329e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_704b865b5ae85770542329416350b6dda53c0e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\93fa24a88ec5a7bac2f1ae6faec1aa19f1424657\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b28d1cb36290e5e934d3bdfd126145a0452864b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\674663323a8a626a18cb97cc313c3f862d7527b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b41a38a8e759d666065ac448efc3bc2b697ed867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\5101738f40fd201d43e0d11df1ff1562da7c618e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f16b0ff5a72b474f32cd2dad990ecf737d2e74fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\a3216f8aff73e9cf9cb8f81a772cbe34b478da5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_326116774b9d075fcf1c85e32b4dfc1b1a751d71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\06264f0b3cb3d4e806ab140e2853e9def76f3342\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_957b10b0ee5a54918ca8355b59792eb300eee98b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_515aa0ea7616f23a49fe079aec4b66114a834799\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\53478ed2330afc945b97dfa0ce139dadd93eabc3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b94f1e42c436e69f28f0e4e8631ad916dabc3ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e2ca20a2da9aac0d576dfecfc0d7e82d8a4d2aa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\5c8dca32aeaec22e6ac0402e62832b357934ffa6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c9a795742cd71777975ac2d0c5a839cd1cae44f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_50f9bbd626a50d15c69b39957981b2677c379a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\.android\build-cache\50e91b24ce3bde231bc22f64ef4164d4add91802\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e97867695e11a6032365b1fe0d1ece3932fa0953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46bf11253b34b30ad1fd7b6334eeb18bfdbdb200">
+        <dex dex="C:\Users\mahardika\Desktop\AndroidKuh\LayoutAndAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7a6f9cfd443d51bff2ec0249eaa931c52ce63dc1\classes.dex" />
+    </item>
+
+</items>

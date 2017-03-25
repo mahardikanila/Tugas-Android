@@ -1,0 +1,7 @@
+#Sat Mar 25 12:42:25 ICT 2017
+base.0=C\:\\Users\\mahardika\\Desktop\\AndroidKuh\\LayoutAndAlert\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_515aa0ea7616f23a49fe079aec4b66114a834799
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\mahardika\\Desktop\\AndroidKuh\\LayoutAndAlert\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7a6f9cfd443d51bff2ec0249eaa931c52ce63dc1\\classes.dex
+base.1=C\:\\Users\\mahardika\\Desktop\\AndroidKuh\\LayoutAndAlert\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7a6f9cfd443d51bff2ec0249eaa931c52ce63dc1
+file.0=C\:\\Users\\mahardika\\Desktop\\AndroidKuh\\LayoutAndAlert\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_515aa0ea7616f23a49fe079aec4b66114a834799\\classes.dex
